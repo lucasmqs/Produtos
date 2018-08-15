@@ -1,0 +1,32 @@
+Prezados
+
+
+Bom dia!
+
+
+Promeiramente agradeço pela oportunidade de poder estar participando desse processo seletivo.
+
+Apenas para esclarecimento:
+
+Ferramentas utilizadas:
+* Banco de Dados MySQL 5.5 32 bits
+  --> Porta 3308 
+* Delphi XE10.2
+  --> Firedac
+
+
+Existem dois arquivos .sql
+* tmp_db.sql é o metadata do banco (DDL)
+*inserts.sql são inserts básicos (DML) relacionados à categorias e subcategorias de produtos.
+
+Como não tava bem detalhado o que realmente deveria ser feito, fiz um cadastro básico, com os requisitos solicitados e mais alguns que achei pertinente.
+Dei uma diversificada na forma com que foi feito, criei algumas classes conforme solicitado, acrescentei algumas funcionalidades(categorias e subcategorias),
+não priorizei a parte de acabamento pois acredito não ser o foco no momento.
+
+Mais uma vez obrigado pela atenção.
+
+
+Cordialmente
+
+
+Lucas Marques
